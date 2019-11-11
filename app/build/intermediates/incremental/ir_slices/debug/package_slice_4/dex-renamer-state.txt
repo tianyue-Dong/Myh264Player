@@ -1,0 +1,4 @@
+#Mon Nov 11 10:44:40 CST 2019
+base.0=F\:\\h264Playerdemo\\MyH264Player\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
